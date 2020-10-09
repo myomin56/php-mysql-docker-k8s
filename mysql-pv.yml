@@ -16,6 +16,6 @@ spec:
     Retain
   nfs:
     # NFS server's definition
-    path: /mnt/mysql
+    path: /mnt/mm/data
     server: 192.168.14.11
     readOnly: false
